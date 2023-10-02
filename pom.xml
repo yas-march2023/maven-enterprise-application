@@ -24,13 +24,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://65.0.204.242:9980/yaswanth/repository/icicibank-release/</url>
+	      <url>http://65.0.204.242:9980/yaswanth/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url> http://65.0.204.242:9980/yaswanth/repository/icicibank-snapshot/</url>
+	      <url>http://65.0.204.242:9980/yaswanth/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
